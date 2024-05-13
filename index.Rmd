@@ -8,8 +8,6 @@ links:
     url: "https://scholar.google.com/citations?user=vrmQi6MAAAAJ&hl=de"
   - label: FHNW
     url: "https://www.fhnw.ch/de/personen/loris-jeitziner"
-  - label: Twitter
-    url: "https://twitter.com/jeitzi93"
 output:
   postcards::trestles
 ---
