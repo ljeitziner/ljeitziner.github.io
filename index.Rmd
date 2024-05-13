@@ -12,7 +12,7 @@ output:
   postcards::trestles
 ---
  
-#### Research assistant @FHNW
+#### Research Assistant @FHNW
 
 **Research Interests** 
 
