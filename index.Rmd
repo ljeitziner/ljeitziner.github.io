@@ -1,0 +1,71 @@
+---
+title: "Loris Jeitziner"
+image: "loris.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/loris-jeitziner-b3939176/"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-7941-5003/"
+  - label: FHNW
+    url: "https://www.fhnw.ch/de/personen/loris-jeitziner"
+  - label: Twitter
+    url: "https://twitter.com/jeitzi93"
+output:
+  postcards::trestles
+---
+ 
+#### Research assistant @FHNW
+
+**Research Interests** 
+
+* Computer-supported collaborative learning (CSCL)
+* Methods development in CSCL
+* Collaborative engagement in CSCL
+
+**Current Projects**
+
+* [Next-Generation Learning](https://www.fhnw.ch/de/forschung-und-dienstleistungen/psychologie/soziale-und-digitale-interaktion/next-generation-learning)
+* [PGB-8 «E-ASSESSMENT & DISTANCE TESTING»](https://newlearning.fhnw.ch/pgb-8-e-assessment-distance-testing/)
+* [FHNW Learning Spaces](https://www.fhnw.ch/de/die-fhnw/strategische-entwicklungsschwerpunkte/strategische-initiativen-18-20/learning-spaces)
+
+<br/>
+
+#### Experience
+
+**Since 2021**
+Research assistant, School of Applied Psychology, University of Applied Sciences and Arts Northwestern Switzerland
+
+**2017 - 2021**
+Research assistant, Department of Social Psychology, University of Basel
+
+#### Education
+
+**Since 2022**
+Doctoral candidate, University of Basel
+
+**2019 - 2021**
+Master of Science Psychology – Social-, Decision- and Economic Psychology, University of Basel, Switzerland
+
+**2016 – 2019**
+Bachelor of Science Psychology, University of Basel, Switzerland
+
+**2010 – 2014**
+IT apprenticeship - System administration, Fr. Sauter AG
+
+<br/>
+
+#### Selected Publications
+
+- Fischer, O., Jeitziner, L.T., & Wulff, D.U. (2024). Affect in science communication: a data-driven analysis of TED Talks on YouTube. *Humanities and Social Sciences Communications, 11*(1), 1-9. Palgrave.
+
+- Jaffé, M.E., Jeitziner, L., Keller, M.D., & Walker, M. (2022). Differences in faces do make a difference: Diversity perceptions and preferences in faces. *Journal of Experimental Social Psychology, 100*, 104277. Elsevier.
+
+#### Conference Proceedings
+
+- Jeitziner, L., Paneth, L., Rack, O., Zahn, C., & Wulff, D.U. (2023). Exploring linguistic indicators of social collaborative engagement. In *Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023*. International Society of the Learning Sciences.
+
+- Roos, A.-L., Jeitziner, L.T., & Zahn, C. (2023). Stressors in Online Exams-Same Same but Different? In *Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023* (pp. 1979-1980). International Society of the Learning Sciences.
+
+- Paneth, L., Jeitziner, L.T., Rack, O., & Zahn, C. (2023). A multi-method approach to capture quality of collaborative group engagement. International Society of the Learning Sciences.
+
+- Jeitziner, L.T., Roos, A.-L., Ruf, A., & Zahn, C. (2022). What if the computer crashes? Findings from an exploratory factor analysis on stressors in online exams. In *Proceedings of the 16th International Conference of the Learning Sciences-ICLS 2022* (pp. 1948-1949). International Society of the Learning Sciences.
