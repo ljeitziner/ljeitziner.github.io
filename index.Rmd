@@ -1,5 +1,5 @@
 ---
-title: "Loris Jeitziner"
+title: "Loris T. Jeitziner"
 image: "loris.jpg"
 links:
   - label: LinkedIn
