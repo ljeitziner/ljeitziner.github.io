@@ -4,8 +4,8 @@ image: "loris.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/loris-jeitziner-b3939176/"
-  - label: ORCID
-    url: "https://orcid.org/0000-0001-7941-5003/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=vrmQi6MAAAAJ&hl=de"
   - label: FHNW
     url: "https://www.fhnw.ch/de/personen/loris-jeitziner"
   - label: Twitter
