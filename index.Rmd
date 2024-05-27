@@ -4,8 +4,8 @@ image: "loris.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/loris-jeitziner-b3939176/"
-  - label: OSF
-    url: "https://osf.io/758ct/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=vrmQi6MAAAAJ&hl=de"
   - label: GitHub
     url: "https://github.com/ljeitziner"
   - label: Mail
