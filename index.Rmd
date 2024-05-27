@@ -8,7 +8,7 @@ links:
     url: "https://scholar.google.com/citations?user=vrmQi6MAAAAJ&hl=de"
   - label: GitHub
     url: "https://github.com/ljeitziner"
-  - label: Mail
+  - label: Email
     url: "mailto:loris.jeitziner@gmail.com"
 output:
   postcards::trestles
