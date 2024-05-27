@@ -14,7 +14,7 @@ output:
   postcards::trestles
 ---
  
-#### Research assistant @FHNW
+#### Research associate @FHNW
 
 **Research Interests** 
 
@@ -33,7 +33,7 @@ output:
 #### Experience
 
 **Since 2021**
-Research assistant, School of Applied Psychology, University of Applied Sciences and Arts Northwestern Switzerland
+Research associate, School of Applied Psychology, University of Applied Sciences and Arts Northwestern Switzerland
 
 **2017 - 2021**
 Research assistant, Department of Social Psychology, University of Basel
