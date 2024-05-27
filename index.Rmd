@@ -4,12 +4,12 @@ image: "loris.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/loris-jeitziner-b3939176/"
-  - label: FHNW
-    url: "https://www.fhnw.ch/de/personen/loris-jeitziner"
   - label: OSF
     url: "https://osf.io/758ct/"
   - label: GitHub
     url: "https://github.com/ljeitziner"
+  - label: Mail
+    url: "mailto:loris.jeitziner@gmail.com"
 output:
   postcards::trestles
 ---
