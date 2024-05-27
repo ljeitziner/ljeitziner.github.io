@@ -4,12 +4,12 @@ image: "loris.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/loris-jeitziner-b3939176/"
-  - label: ORCID
-    url: "https://orcid.org/0000-0001-7941-5003/"
   - label: FHNW
     url: "https://www.fhnw.ch/de/personen/loris-jeitziner"
   - label: Twitter
     url: "https://twitter.com/jeitzi93"
+  - label: GitHub
+    url: "https://github.com/ljeitziner"
 output:
   postcards::trestles
 ---
@@ -65,10 +65,10 @@ IT apprenticeship - System administration, Fr. Sauter AG
 
 #### Conference Proceedings
 
-- Jeitziner, L., Paneth, L., Rack, O., Zahn, C., & Wulff, D.U. (2023). Exploring linguistic indicators of social collaborative engagement. In *Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023*. International Society of the Learning Sciences.
+- 	Jeitziner, L. T., Paneth, L., Rack, O., Zahn, C., & Wulff, D. U. (2023). Exploring linguistic indicators of social collaborative group engagement. In Damșa, C., Borge, M., Koh, E., & Worsley, M. (Eds.), *Proceedings of the 16th International Conference on Computer-Supported Collaborative Learning* - CSCL 2023 (pp. 364-365). International Society of the Learning Sciences. [https://doi.org/10.22318/cscl2023.813595](https://doi.org/10.22318/cscl2023.813595)
 
-- Roos, A.-L., Jeitziner, L.T., & Zahn, C. (2023). Stressors in Online Exams-Same Same but Different? In *Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023* (pp. 1979-1980). International Society of the Learning Sciences.
+- Roos, A., Jeitziner, L. T., & Zahn, C. (2023). Stressors in online exams - same same but different?. In Blikstein, P., Van Aalst, J., Kizito, R., & Brennan, K. (Eds.), *Proceedings of the 17th International Conference of the Learning Sciences - ICLS 2023* (pp. 1979-1980). International Society of the Learning Sciences. [https://doi.org/10.22318/icls2023.806035](https://doi.org/10.22318/icls2023.806035)
 
-- Paneth, L., Jeitziner, L., Rack, O., Zahn, C. (2023). A Multi-Method Approach to Capture Quality of Collaborative Group Engagement. In C. Damsa, M. Borge, E. Koh, M. Worsley (Eds.), Proceedings of the 16th International Conference on Computer-Supported Collaborative Learning—CSCL 2023 (pp. 91–98). International Society of the Learning Sciences. [https://doi.org/10.22318/cscl2023.134087](https://doi.org/10.22318/cscl2023.134087)
+- Paneth, L., Jeitziner, L., Rack, O., Zahn, C. (2023). A Multi-Method Approach to Capture Quality of Collaborative Group Engagement. In C. Damsa, M. Borge, E. Koh, M. Worsley (Eds.), *Proceedings of the 16th International Conference on Computer-Supported Collaborative Learning—CSCL 2023* (pp. 91–98). International Society of the Learning Sciences. [https://doi.org/10.22318/cscl2023.134087](https://doi.org/10.22318/cscl2023.134087)
 
-- Jeitziner, L.T., Roos, A.-L., Ruf, A., & Zahn, C. (2022). What if the computer crashes? Findings from an exploratory factor analysis on stressors in online exams. In *Proceedings of the 16th International Conference of the Learning Sciences-ICLS 2022* (pp. 1948-1949). International Society of the Learning Sciences.
+- Jeitziner, L.T., Roos, A.-L., Ruf, A., & Zahn, C. (2022). What if the computer crashes? Findings from an exploratory factor analysis on stressors in online exams. In *Proceedings of the 16th International Conference of the Learning Sciences-ICLS 2022* (pp. 1948-1949). International Society of the Learning Sciences. [https://dx.doi.org/10.22318/icls2022.1948](https://dx.doi.org/10.22318/icls2022.1948)
