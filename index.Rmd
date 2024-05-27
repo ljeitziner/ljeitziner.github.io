@@ -1,18 +1,20 @@
 ---
-title: "Loris T. Jeitziner"
+title: "Loris Jeitziner"
 image: "loris.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/loris-jeitziner-b3939176/"
-  - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=vrmQi6MAAAAJ&hl=de"
+  - label: ORCID
+    url: "https://orcid.org/0000-0001-7941-5003/"
   - label: FHNW
     url: "https://www.fhnw.ch/de/personen/loris-jeitziner"
+  - label: Twitter
+    url: "https://twitter.com/jeitzi93"
 output:
   postcards::trestles
 ---
  
-#### Research Assistant @FHNW
+#### Research assistant @FHNW
 
 **Research Interests** 
 
@@ -54,9 +56,12 @@ IT apprenticeship - System administration, Fr. Sauter AG
 
 #### Selected Publications
 
-- Fischer, O., Jeitziner, L.T., & Wulff, D.U. (2024). Affect in science communication: a data-driven analysis of TED Talks on YouTube. *Humanities and Social Sciences Communications, 11*(1), 1-9. Palgrave.
+- Fischer, O., Jeitziner, L.T. & Wulff, D.U. (2024). Affect in science communication: a data-driven analysis of TED Talks on YouTube. *Humanit Soc Sci Commun* 11, 80. [https://doi.org/10.1057/s41599-023-02247-z](https://doi.org/10.1057/s41599-023-02247-z)
 
-- Jaffé, M.E., Jeitziner, L., Keller, M.D., & Walker, M. (2022). Differences in faces do make a difference: Diversity perceptions and preferences in faces. *Journal of Experimental Social Psychology, 100*, 104277. Elsevier.
+- Jaffé, M.E., Jeitziner, L., Keller, M.D., & Walker, M. (2022). Differences in faces do make a difference: Diversity perceptions and preferences in faces. *Journal of Experimental Social Psychology, 100*, 104277. Elsevier. [https://doi.org/10.1016/j.jesp.2021.104277](https://doi.org/10.1016/j.jesp.2021.104277)
+
+- Paneth, L., Jeitziner, L. T., Rack, O., Opwis, K., & Zahn, C. (2024). Zooming in: The role of nonverbal behavior in sensing the quality of collaborative group engagement. *Intern. J. Comput.-Support. Collab. Learn.* [https://doi.org/10.1007/s11412-024-09422-7](https://doi.org/10.1007/s11412-024-09422-7)
+
 
 #### Conference Proceedings
 
@@ -64,6 +69,6 @@ IT apprenticeship - System administration, Fr. Sauter AG
 
 - Roos, A.-L., Jeitziner, L.T., & Zahn, C. (2023). Stressors in Online Exams-Same Same but Different? In *Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023* (pp. 1979-1980). International Society of the Learning Sciences.
 
-- Paneth, L., Jeitziner, L.T., Rack, O., & Zahn, C. (2023). A multi-method approach to capture quality of collaborative group engagement. International Society of the Learning Sciences.
+- Paneth, L., Jeitziner, L., Rack, O., Zahn, C. (2023). A Multi-Method Approach to Capture Quality of Collaborative Group Engagement. In C. Damsa, M. Borge, E. Koh, M. Worsley (Eds.), Proceedings of the 16th International Conference on Computer-Supported Collaborative Learning—CSCL 2023 (pp. 91–98). International Society of the Learning Sciences. [https://doi.org/10.22318/cscl2023.134087](https://doi.org/10.22318/cscl2023.134087)
 
 - Jeitziner, L.T., Roos, A.-L., Ruf, A., & Zahn, C. (2022). What if the computer crashes? Findings from an exploratory factor analysis on stressors in online exams. In *Proceedings of the 16th International Conference of the Learning Sciences-ICLS 2022* (pp. 1948-1949). International Society of the Learning Sciences.
